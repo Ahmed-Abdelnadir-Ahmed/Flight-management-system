@@ -1,0 +1,58 @@
+Booking Status:Reserved
+booking reference number:0
+payment status:not confirmed yet
+Passenger Details:
+Passenger Name:ahmed
+Passenger ID:240124
+Passport Number:24
+Passenger Birth Date:2006
+Passenger Special Requests:no
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Flight Details:
+Flight Number:5
+Price:125
+Airline:
+Destination:
+Flight Origin:
+Departure Time:9
+Arrival Time:8
+~~~~~~~~~~~~~~~~~~~~~~Booking Status:Reserved
+booking reference number:0
+payment status:not confirmed yet
+Passenger Details:
+Passenger Name:ahmed
+Passenger ID:240124
+Passport Number:25
+Passenger Birth Date:2006
+Passenger Special Requests:no
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Flight Details:
+Flight Number:5
+Price:125
+Airline:
+Destination:
+Flight Origin:
+Departure Time:9
+Arrival Time:8
+~~~~~~~~~~~~~~~~~~~~~~Booking Status:Reserved
+booking reference number:0
+payment status:not confirmed yet
+Passenger Details:
+Passenger Name:ahmed
+Passenger ID:240124
+Passport Number:26
+Passenger Birth Date:2006
+Passenger Special Requests:no
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Flight Details:
+Flight Number:5
+Price:125
+Airline:
+Destination:
+Flight Origin:
+Departure Time:9
+Arrival Time:8
+~~~~~~~~~~~~~~~~~~~~~~

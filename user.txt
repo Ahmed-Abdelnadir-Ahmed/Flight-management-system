@@ -1,0 +1,10 @@
+Customer Name:somaya
+Password:202020
+Email:
+Contact Information:
+Userid:2
+Customer Id:240124
+Preferince:no preference
+Address:
+Date of Birth:12-5-1999
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

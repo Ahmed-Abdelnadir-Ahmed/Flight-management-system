@@ -1,0 +1,8 @@
+Flight Number:24
+Price:500
+Airline:egypt 
+Destination:aswan
+Flight Origin:domestic
+Departure Time:9AM
+Arrival Time:8PM
+~~~~~~~~~~~~~~~~~~~~~~
